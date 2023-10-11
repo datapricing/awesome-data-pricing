@@ -25,7 +25,6 @@ Improvement suggestions are always welcome! Whether it's correcting a typo, enha
 
 ## Guidelines
 
-- This project adheres to the [Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code.
 - Please ensure that your pull request has not been discussed elsewhere or is not a duplicate.
 - Please use the following format for adding entries: `[Resource Name](link)` - Description.
 
